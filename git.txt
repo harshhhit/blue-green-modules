@@ -1,0 +1,7 @@
+git init
+  606  git add
+  607  git add .
+  608  git commit -m "first commit"
+  609  git branch -M master
+  610  git remote add origin https://github.com/harshhhit/blue-green-modules.git
+  611  git push -u origin master
